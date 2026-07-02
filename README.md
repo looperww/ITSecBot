@@ -1,4 +1,4 @@
-# SecOps AI Workbench
+# ITSecBot
 
 AI-assisted web app for common IT security department work, including
 suspicious email analysis, regulatory audits, policy review and creation,
